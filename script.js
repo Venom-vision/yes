@@ -1,6 +1,6 @@
 document.getElementById('loginBtn').addEventListener('click', function() {
     const password = prompt('Enter the password:');
-    if (password === 'yourPassword') { // Replace 'yourPassword' with your actual password
+    if (password === '1234') { // Replace 'yourPassword' with your actual password
         alert('Access granted!');
         // Code to display the main content can go here
     } else {
